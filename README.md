@@ -55,6 +55,8 @@ Zphisher/
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
 
+---
+
 ### ⚖️ Ethical Hacking Warning
 
 Disclaimer:
@@ -70,3 +72,4 @@ Disclaimer:
 
 This project is licensed under the GPL-3.0 License.
 See the `LICENSE` file for more details.
+
